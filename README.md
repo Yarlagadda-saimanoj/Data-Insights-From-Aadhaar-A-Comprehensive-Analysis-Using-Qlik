@@ -1,4 +1,5 @@
-![badge](https://img.shields.io/badge/Qlik-009848.svg?style=for-the-badge&logo=Qlik&logoColor=white)
+[![badge](https://img.shields.io/badge/Qlik-009848.svg?style=for-the-badge&logo=Qlik&logoColor=white)](https://www.qlik.com/us/products/qlik-sense)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yarlagadda-saimanoj/Data-Insights-From-Aadhaar-A-Comprehensive-Analysis-Using-Qlik/blob/main/LICENSE)
 # Data Insight From Aadhar *A Comprehensive Analysis Using Qlik*
 
 ## Introduction
