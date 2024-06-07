@@ -1,3 +1,4 @@
+![badge](https://img.shields.io/badge/Qlik-009848.svg?style=for-the-badge&logo=Qlik&logoColor=white)
 # Data Insight From Aadhar *A Comprehensive Analysis Using Qlik*
 
 ## Introduction
@@ -53,3 +54,5 @@ The project represents a significant advancement in utilizing Aadhar data for im
 ## Dataset
 The data for this project can be downloaded from the following link:  
 [Download Dataset](https://drive.google.com/file/d/1Umb7QTOxgTZUyCXoCIniM3DHmIejKzFV/view?usp=sharing)
+
+
